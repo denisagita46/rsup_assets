@@ -51,16 +51,6 @@ Login:
 ![alt text](https://github.com/nahidulhasan/laravel-gentelella/blob/master/public/images/login.png "Login")
 
 
-Dashboard:
-
-![alt text](https://github.com/nahidulhasan/laravel-gentelella/blob/master/public/images/d1.png "Dashboard")
-
-Add New User:
-
-![alt text](https://github.com/nahidulhasan/laravel-gentelella/blob/master/public/images/d2.png "Dashboard")
-
-
-
 
 
 
