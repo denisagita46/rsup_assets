@@ -1,0 +1,4 @@
+install di git command
+
+- npm install 
+- composer update
